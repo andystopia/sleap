@@ -11,8 +11,6 @@ opencv-python>=4.2.0,<=4.6.0
 # opencv-python-headless>=4.2.0.34,<=4.5.5.62
 pandas
 psutil
-PySide2
-qtpy>=2.0.1
 pyzmq
 pyyaml
 pillow>=8.3.1,<=8.4.0
